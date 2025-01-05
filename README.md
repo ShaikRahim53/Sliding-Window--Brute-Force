@@ -1,4 +1,4 @@
-# Sliding-Window--Brute-Force
+# Sliding-Window--Brute-Force (Day - 1 of #100daysCodingChallenge - DSA)
 Hey, today i have solved Sliding Window Problem using Brute Force approach.
 
 What i learned and how i solved?
